@@ -2,8 +2,13 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-<h1 align="center"><b>Hola , soy Juan Arango </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h1 align="center"><b>Hola , soy Juan Arango </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div>
+<img align="center" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+</div>
+
+</br>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
@@ -31,9 +36,15 @@
 🌟 Creativo y detallista, escribo código funcional y elegante.
 🚩 Entusiasta del desarrollo web, optimizando proyectos colaborativos.
 🤔 Experto en gestión de proyectos y control de versiones con <b>GitHub</b>.  <a href="#" target="_blank">MY RESUME.</a>
+	<p>
+<picture> <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+		
+	</p>
+	
 </pre>
-<hr>
 
+<hr>
+<img src='https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg' />
 ## 🤝 Puedes contactarme..
 <p align="center">
 	<a href="mailto:juanarangozapata35@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
