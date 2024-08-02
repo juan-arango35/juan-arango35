@@ -46,6 +46,6 @@
 
 ------
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
+Credit: [Juan Joel Arango Zapata](https://github.com/andermendoza)
 
 Last Edited on: 26/09/2022
