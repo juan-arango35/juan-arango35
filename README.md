@@ -4,7 +4,7 @@
 
 
 <h1 align="center"><b>Hola , soy Juan Arango </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
 <img align="center" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </div>
 
