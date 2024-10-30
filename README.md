@@ -6,9 +6,6 @@ Soy un apasionado de la programación con experiencia en el desarrollo de aplica
 <p align="center">
   <img height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </p>
-<div style="display: flex; justify-content: center; align-items: center; height: 80vh; width: 100vw;">
-    <img height="300px" width="320px"style="text-align:center" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-</div>
 
 </br>
 
