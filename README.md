@@ -3,7 +3,9 @@
 <h1 align="center"><b>Hola, soy Juan Arango</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 Soy un apasionado de la programación con experiencia en el desarrollo de aplicaciones web. Me encanta crear soluciones innovadoras y eficientes, utilizando una variedad de tecnologías, como JavaScript, HTML, CSS, y frameworks como React y Next.js. También tengo experiencia con Express para el desarrollo de servidores y gestiono bases de datos para asegurar que mis aplicaciones sean robustas y escalables. Siempre estoy buscando aprender y mejorar mis habilidades, y me emociona colaborar en proyectos que hagan una diferencia.
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
+<p align="center">
+  <img height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+</p>
 <div style="display: flex; justify-content: center; align-items: center; height: 80vh; width: 100vw;">
     <img height="300px" width="320px"style="text-align:center" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </div>
