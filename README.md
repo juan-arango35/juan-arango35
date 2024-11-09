@@ -36,7 +36,7 @@ Soy un apasionado de la programación con experiencia en el desarrollo de aplica
 🌱 Desarrollador autodidacta, amante del código limpio y eficiente.
 🌟 Creativo y detallista, escribo código funcional y elegante.
 🚩 Entusiasta del desarrollo web, optimizando proyectos colaborativos.
-🤔 Experto en gestión de proyectos y control de versiones con <b>GitHub</b>.  <a href="https://drive.google.com/file/d/1_OknYnh7UtyGwai-7PKfyAmtbz7rHNwK/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 Experto en gestión de proyectos y control de versiones con <b>GitHub</b>.  <a href="https://docs.google.com/document/d/1WJnZNGa4fcGPlCIDMLcU7D327wk5X7xr/edit?usp=sharing&ouid=115325788480436314315&rtpof=true&sd=true" target="_blank">MY RESUME.</a>
 
   
   <p align="center">
